@@ -1,0 +1,9 @@
+.TodoCounter {
+  background: linear-gradient(145deg, #0BA7D9 0%, #03b5ac 100%);
+  padding: 1em 1.5em 2.5em 1.5em;
+  font-size: 1.2rem;
+  line-height: 1.4rem;
+  border-radius: 15px;
+  color: #fbfbfb;
+}
+

@@ -1,0 +1,30 @@
+.TodoSearch {
+    border-radius: 25px;
+    border: 1px solid #7a7a7a;
+    height: fit-content;
+    padding: .5em 1em;
+    width: 60%;
+    margin: -2.5em auto 1em;
+    font-size: 1.1rem;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    color: #191a20;
+    box-shadow: 0px 0px 10px rgb(0 0 0 / 10%);
+}
+
+.TodoSearch::placeholder {
+    color: #7a7a7a;
+    padding-left: 2em;
+    font-weight: 300;
+    background: url('https://api.iconify.design/akar-icons/search.svg?color=%237a7a7a') no-repeat left center / contain;
+}
+
+
+
+
+
+
+.TodoSearch:focus {
+  outline-color: #4cc4c8;
+}
